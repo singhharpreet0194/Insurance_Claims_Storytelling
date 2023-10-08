@@ -28,8 +28,7 @@ As a Lead Data Analyst, our mission is:
 - [Car Claims for Insurance](Car+claims+for+insurance.xlsx)
 
 ## Project Files 📁
-
-- [Tableau Dashboard Link]([Tablue_dashboard_link.docx](https://public.tableau.com/app/profile/harpreet.singh3490/viz/projectDVT_16887904278000/Story1?publish=yes))
+- [Tableau Dashboard Link](https://public.tableau.com/app/profile/harpreet.singh3490/viz/projectDVT_16887904278000/Story1?publish=yes)
 
 ## Project Steps 🛠️
 

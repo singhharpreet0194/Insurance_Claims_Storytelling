@@ -29,7 +29,7 @@ As a Lead Data Analyst, our mission is:
 
 ## Project Files 📁
 
-- [Tableau Dashboard Link](Tablue_dashboard_link.docx)
+- [Tableau Dashboard Link]([Tablue_dashboard_link.docx](https://public.tableau.com/app/profile/harpreet.singh3490/viz/projectDVT_16887904278000/Story1?publish=yes))
 
 ## Project Steps 🛠️
 
